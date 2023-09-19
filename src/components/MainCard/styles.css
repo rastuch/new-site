@@ -1,0 +1,12 @@
+.card {
+    width: 345px;
+}
+
+.card:hover {
+    background-color: #f2f2f2;
+    opacity: 0.5;
+}
+
+.card-image {
+    height: 220px;
+}
